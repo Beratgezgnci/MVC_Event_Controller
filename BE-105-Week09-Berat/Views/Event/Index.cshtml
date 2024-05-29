@@ -1,0 +1,36 @@
+﻿@model List<EventModel>
+@{
+    ViewData["Title"] = "Events";
+}
+<h1>Events</h1>
+
+<p>@ViewBag.Message</p>
+
+<a class="btn btn-success my-1" href="/Event/Create">Create Event</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var _event in Model)
+        {
+            <tr>
+                <td>@_event.Id</td>
+                <td>@_event.Title</td>
+                <td>@_event.Description</td>
+                <td>@_event.Date</td>
+                <td>
+                    <a class="btn btn-warning" href="/Event/Edit/@_event.Id">Edit</a>
+                    <a class="btn btn-info" href="/Event/Details/@_event.Id">Details</a>
+                    <a class="btn btn-danger" href="/Event/Delete/@_event.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

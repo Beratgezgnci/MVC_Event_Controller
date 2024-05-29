@@ -1,0 +1,40 @@
+﻿@model EventModel
+@{
+    ViewData["Title"] = "Details";
+}
+<a class="btn btn-outline-secondary" href="/Event/Index">Back</a>
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewBag.ErrorMessage is not null)
+{
+    <div class="alert alert-danger my-2" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<div class="row">
+    <div class="col-6">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+               
+                
+                    <tr>
+                        <td>@Model.Id</td>
+                    <td>@Model.Title</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.Date</td>
+                    </tr>
+                
+            </tbody>
+        </table>
+    </div>
+</div>

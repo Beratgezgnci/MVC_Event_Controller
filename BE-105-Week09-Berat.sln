@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE-105-Week09-Berat", "BE-105-Week09-Berat\BE-105-Week09-Berat.csproj", "{57E39587-0ACB-41CA-BF27-8210F4F4D096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E39587-0ACB-41CA-BF27-8210F4F4D096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E39587-0ACB-41CA-BF27-8210F4F4D096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E39587-0ACB-41CA-BF27-8210F4F4D096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E39587-0ACB-41CA-BF27-8210F4F4D096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B494E01-5C0C-4ED8-B3D2-2CD70CCC4B0F}
+	EndGlobalSection
+EndGlobal
