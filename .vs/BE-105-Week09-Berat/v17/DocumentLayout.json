@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|solutionrelative:be-105-week09-berat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57E39587-0ACB-41CA-BF27-8210F4F4D096}|BE-105-Week09-Berat\\BE-105-Week09-Berat.csproj|c:\\users\\berat\\onedrive\\masa\u00FCst\u00FC\\backend\\h9\\be-105-week09-berat\\be-105-week09-berat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,15 +86,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\Event\\Details.cshtml",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\Event\\Details.cshtml",
@@ -102,59 +98,24 @@
               "RelativeToolTip": "BE-105-Week09-Berat\\Views\\Event\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T14:35:40.18Z"
+              "WhenOpened": "2024-05-29T14:35:40.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "BE-105-Week09-Berat\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T11:15:09.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:33:57.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:31:16.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Controllers\\EventController.cs",
               "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Controllers\\EventController.cs",
               "RelativeToolTip": "BE-105-Week09-Berat\\Controllers\\EventController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwE8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T11:14:33.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Program.cs",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Program.cs",
@@ -166,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\appsettings.json",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\appsettings.json",
@@ -190,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Controllers\\HomeController.cs",
@@ -202,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\Event\\Edit.cshtml",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\Event\\Edit.cshtml",
@@ -210,24 +171,36 @@
               "RelativeToolTip": "BE-105-Week09-Berat\\Views\\Event\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T12:58:36.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T12:58:36.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\Event\\Create.cshtml",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\Event\\Create.cshtml",
               "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\Event\\Create.cshtml",
               "RelativeToolTip": "BE-105-Week09-Berat\\Views\\Event\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T12:58:06.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Models\\EventModel.cs",
+              "RelativeToolTip": "BE-105-Week09-Berat\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:01:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Models\\ErrorViewModel.cs",
@@ -235,19 +208,49 @@
               "RelativeToolTip": "BE-105-Week09-Berat\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T10:53:01.166Z"
+              "WhenOpened": "2024-05-28T10:53:01.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EventModel.cs",
-              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Models\\EventModel.cs",
-              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Models\\EventModel.cs",
-              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Models\\EventModel.cs",
-              "RelativeToolTip": "BE-105-Week09-Berat\\Models\\EventModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BE-105-Week09-Berat\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T11:01:46.077Z"
+              "WhenOpened": "2024-05-28T11:15:09.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BE-105-Week09-Berat\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:31:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\berat\\OneDrive\\Masa\u00FCst\u00FC\\BACKEND\\H9\\BE-105-Week09-Berat\\BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BE-105-Week09-Berat\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:33:57.928Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
